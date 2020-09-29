@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    position: relative;
+    padding-top: 20%;
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
+#value{
+    font-size: 70px;
+}
